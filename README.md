@@ -21,7 +21,7 @@ Sorobu brings that same philosophy to Notion: **elegant simplicity over complex 
 
 ## Status
 
-🚧 **In Development** - Launching Q1 2025
+🚧 **In Development** - Launching S1 2025
 
 ## Links
 
